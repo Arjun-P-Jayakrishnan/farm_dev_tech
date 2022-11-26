@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84694465773",
+    "project_id": "legionhackathon",
+    "storage_bucket": "legionhackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84694465773:android:6da179dc5554c648c2a0e4",
+        "android_client_info": {
+          "package_name": "com.theflutterdev.farm_dev_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84694465773-12dsbc9i53gp2neo62fq0jpk6iq21vi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBWS7SjTZsxDXAU_SNR58WsRTGiv0mhSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84694465773-12dsbc9i53gp2neo62fq0jpk6iq21vi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
